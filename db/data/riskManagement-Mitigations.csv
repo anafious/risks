@@ -1,0 +1,6 @@
+ID;mitigationsID;description;counter
+d09b40fb-78f0-4059-b369-784250c39ae7;M1;Implement regular backups;5
+e1872471-055f-4fe3-8990-f242151c82f5;M2;Implement firewalls and intrusion detection systems;10
+13f9e288-aeaa-4d52-981d-f54ccff825e0;M3;Train employees on cybersecurity best practices;8
+0fee2cf7-8ff6-48e1-a12c-3b36aa62f04f;M4;Encrypt sensitive data;12
+c00f4f1b-a07f-43fd-a872-c1fe576aa6b4;M5;Conduct regular security audits;3
